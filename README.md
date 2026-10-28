@@ -1,119 +1,105 @@
-<!--
-  SAYONEKU / GITHUB PROFILE
-  A minimal, monochrome home for things I'm building.
-  Project art is conceptual; it is not a product screenshot.
--->
+<!-- SAYONEKU — GitHub profile | Technical portfolio -->
 
 <p align="center">
-  <img src="./assets/portfolio/hero.svg" width="100%" alt="Sayoneku — independent developer building iOS apps, web experiences and self-hosted systems." />
+  <img src="./assets/portfolio/hero.svg" width="100%" alt="Sayoneku — AI systems, software development and self-hosted infrastructure." />
 </p>
 
 <p align="center">
-  <a href="https://sayoneku.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&labelColor=111111&color=111111&logo=vercel&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/Sayoneku/Projects"><img alt="Experiments" src="https://img.shields.io/badge/EXPERIMENTS-303030?style=for-the-badge&labelColor=303030&color=303030&logo=github&logoColor=white" /></a>
+  <a href="https://sayoneku.com">Website</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Sayoneku/Projects">Public projects</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Sayoneku?tab=repositories">Repositories</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1100&color=888888&center=true&vCenter=true&width=540&height=40&lines=Make+something+useful.;Understand+how+it+works.;Refine+until+it+feels+right." width="90%" alt="Make something useful. Understand how it works. Refine until it feels right." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1200&color=888888&center=true&vCenter=true&width=540&height=40&lines=AI+systems+%26+tool+integration.;Self-hosted+infrastructure.;iOS+%26+web+development." width="90%" alt="AI systems and tool integration. Self-hosted infrastructure. iOS and web development." />
 </p>
 
 <p align="center">
-  <strong>Developer by curiosity. Designer by instinct.</strong><br />
-  I build thoughtful things around privacy, personal technology and good design.
+  <strong>AI systems · Software development · Infrastructure</strong>
 </p>
 
-<p align="center"><sub>iOS &nbsp;·&nbsp; WEB &nbsp;·&nbsp; SELF-HOSTING &nbsp;·&nbsp; AUTOMATION</sub></p>
+<p align="center">
+  IT student and independent developer with a particular focus on understanding AI systems,
+  integrating models with tools and services, and building software around them.
+  I also work on iOS applications, web interfaces and self-hosted infrastructure.
+</p>
 
 ---
 
-### 01 &nbsp; / &nbsp; SELECTED WORK
+### 01 &nbsp; / &nbsp; PROJECTS
 
-<sub>Personal software. Made to solve real problems, not fill a portfolio.</sub>
+#### Veyra — iOS health application
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/veyra-dark.svg" />
-  <img src="./assets/portfolio/veyra-light.svg" width="100%" alt="Veyra conceptual artwork — an abstract metallic ring and wearable signal." />
+<source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/veyra-dark.svg" />
+<img src="./assets/portfolio/veyra-light.svg" width="100%" alt="Veyra concept graphic." />
 </picture>
 
-#### Veyra <sub>&nbsp; — &nbsp; PERSONAL HEALTH, WITHOUT THE NOISE</sub>
+`Swift` · `iOS` · `Wearable data` · `Data processing` &nbsp; **In development**
 
-`iOS` &nbsp; `Swift` &nbsp; `Wearables` &nbsp; `Local-first` &nbsp; **In development**
+Personal iOS application for collecting and analysing wearable measurements. Work includes data import and reconciliation, sleep and activity metrics, and a self-hosted backend. The project prioritises transparent calculations and control over health data.
 
-A personal health companion designed to turn wearable readings into a clearer picture of **sleep, recovery, and activity**. Built with an emphasis on understandable insights and control over your own data.
+<sub>Private development project. Artwork is conceptual.</sub>
 
-<sub>Private work in progress · Artwork is conceptual, not an app screenshot.</sub>
-
+#### Observatory — local systems dashboard
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/observatory-dark.svg" />
-  <img src="./assets/portfolio/observatory-light.svg" width="100%" alt="Observatory conceptual artwork — connected local systems orbiting one central dashboard." />
+<source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/observatory-dark.svg" />
+<img src="./assets/portfolio/observatory-light.svg" width="100%" alt="Observatory concept graphic." />
 </picture>
 
-#### Observatory <sub>&nbsp; — &nbsp; EVERYTHING, IN ONE PLACE</sub>
+`Web` · `Dashboards` · `Self-hosting` · `Monitoring` &nbsp; **In development**
 
-`Web` &nbsp; `Dashboard` &nbsp; `Self-hosting` &nbsp; `Local-first` &nbsp; **In development**
+Local web dashboard intended to centralise information from self-hosted services and connected systems. The focus is service monitoring, system visibility and a single interface for managing personal infrastructure.
 
-A personal command centre for **monitoring services, exploring system health, and managing a home infrastructure** without jumping between a dozen interfaces.
-
-<sub>Private work in progress · Artwork is conceptual, not a dashboard screenshot.</sub>
-
+<sub>Private development project. Artwork is conceptual.</sub>
 
 ---
 
-### 02 &nbsp; / &nbsp; THE LAB
+### 02 &nbsp; / &nbsp; PUBLIC WORK
 
-<sub>Some projects start with a plan. Others start with “what if?”</sub>
+**[ISS Live Tracker](https://github.com/Sayoneku/Projects/blob/main/iss_tracker.html)** — Browser-based interface for tracking the International Space Station, with a custom map and interactive controls.
 
-
-**[ISS Live Tracker ↗](https://github.com/Sayoneku/Projects/blob/main/iss_tracker.html)**
-
-An interactive, browser-based experiment for following the International Space Station. Maps, orbital data, and a reason to keep experimenting with interfaces.
-
-**[Explore the Projects repository ↗](https://github.com/Sayoneku/Projects)**
-
-A place for publicly shared prototypes, web experiments, and ideas worth testing.
-
+**[Projects repository](https://github.com/Sayoneku/Projects)** — Public experiments and prototypes. Source files are available to inspect.
 
 ---
 
-### 03 &nbsp; / &nbsp; THE APPROACH
+### 03 &nbsp; / &nbsp; TECHNICAL SPECIALISATIONS
 
-| | |
-| :-- | :-- |
-| **01 / Own your tools.** | Privacy and self-hosting are worth the extra effort when they give you more control. |
-| **02 / Make complexity feel simple.** | The best interface makes a complicated system feel obvious. |
-| **03 / Learn by building.** | Prototype, break things, understand why, then make them better. |
+| Area | Focus |
+| :--- | :--- |
+| **AI systems** | LLM behaviour and limitations, context handling, tool calling, agent workflows and MCP integrations. |
+| **AI integration** | Connecting models to APIs, external tools and local services; testing and debugging multi-step workflows. |
+| **Systems & infrastructure** | Linux, Docker, self-hosted applications, networking, service configuration and troubleshooting. |
+| **Software & data** | Swift/iOS, Python, JavaScript/TypeScript, web interfaces and data-processing pipelines. |
+| **Privacy & security** | Local-first design, access control and reducing unnecessary reliance on third-party services. |
 
+My main technical interest is **how AI models interact with the systems around them**: what they can reliably do, how tools are exposed to them, where workflows fail and how to build integrations that are testable and maintainable.
 
 ---
 
-### 04 &nbsp; / &nbsp; THE TOOLKIT
-
-<sub>Languages, platforms, and tools I use and explore.</sub>
-
+### 04 &nbsp; / &nbsp; TECHNOLOGIES
 
 <div align="center">
-
-  <img src="./assets/portfolio/icon-swift.svg" height="46" width="46" alt="Swift" title="Swift" />&nbsp;&nbsp;
-  <img src="./assets/portfolio/icon-python.svg" height="46" width="46" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="./assets/portfolio/icon-javascript.svg" height="46" width="46" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="./assets/portfolio/icon-typescript.svg" height="46" width="46" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="./assets/portfolio/icon-react.svg" height="46" width="46" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="./assets/portfolio/icon-docker.svg" height="46" width="46" alt="Docker" title="Docker" />&nbsp;&nbsp;
-  <img src="./assets/portfolio/icon-linux.svg" height="46" width="46" alt="Linux" title="Linux" />&nbsp;&nbsp;
-  <img src="./assets/portfolio/icon-git.svg" height="46" width="46" alt="Git" title="Git" />
-
-  <sub>Swift &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Git</sub>
-
+<img src="./assets/portfolio/icon-swift.svg" height="46" width="46" alt="Swift" title="Swift" />&nbsp;&nbsp;
+<img src="./assets/portfolio/icon-python.svg" height="46" width="46" alt="Python" title="Python" />&nbsp;&nbsp;
+<img src="./assets/portfolio/icon-javascript.svg" height="46" width="46" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+<img src="./assets/portfolio/icon-typescript.svg" height="46" width="46" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+<img src="./assets/portfolio/icon-react.svg" height="46" width="46" alt="React" title="React" />&nbsp;&nbsp;
+<img src="./assets/portfolio/icon-docker.svg" height="46" width="46" alt="Docker" title="Docker" />&nbsp;&nbsp;
+<img src="./assets/portfolio/icon-linux.svg" height="46" width="46" alt="Linux" title="Linux" />&nbsp;&nbsp;
+<img src="./assets/portfolio/icon-git.svg" height="46" width="46" alt="Git" title="Git" />
 </div>
 
+<p align="center">
+<sub>Swift · Python · JavaScript · TypeScript · React · Docker · Linux · Git</sub>
+</p>
 
 ---
 
-### 05 &nbsp; / &nbsp; UNDER THE HOOD
+### 05 &nbsp; / &nbsp; GITHUB ACTIVITY
 
-<sub>Real public GitHub data. Monochrome cards and contribution animation generated in this repository.</sub>
-
+<sub>Statistics are generated from public GitHub data by a scheduled GitHub Actions workflow in this repository.</sub>
 
 <details>
 <summary><strong>Open the activity dashboard ↗</strong></summary>
@@ -142,18 +128,9 @@ A place for publicly shared prototypes, web experiments, and ideas worth testing
 
 </details>
 
-
 ---
 
 <p align="center">
-  <sub>STILL LEARNING. STILL BUILDING.</sub>
+<strong>AI systems / Development / Self-hosted infrastructure</strong><br />
+<a href="https://sayoneku.com">sayoneku.com</a>
 </p>
-
-<h3 align="center">Good ideas deserve to exist.</h3>
-
-<p align="center">
-  From the first messy prototype to the last tiny detail.<br />
-  <strong><a href="https://sayoneku.com">sayoneku.com ↗</a></strong>
-</p>
-
-<p align="center"><sub>© SAYONEKU &nbsp; / &nbsp; BUILT WITH CURIOSITY</sub></p>
