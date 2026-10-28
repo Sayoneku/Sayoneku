@@ -16,22 +16,12 @@
 
 ### 01 / TECHNICAL FOCUS
 
-| Area | What I work with |
-| :-- | :-- |
-| **AI systems & tooling** | LLM behaviour, context management, function/tool calling, MCP, agent workflows and API integrations. |
-| **Infrastructure** | Linux, Docker, self-hosting, networking, service configuration, HTTPS and troubleshooting. |
-| **Software & data** | Swift/iOS, Python, JavaScript/TypeScript, data ingestion, validation and reconciliation. |
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/technical-focus-dark.svg" />
+<img src="./assets/portfolio/technical-focus-light.svg" width="100%" alt="AI systems technical focus. Models connect to MCP and API tools and then to local systems. Specialisations: LLM context, agents and tool calling; Linux, Docker and networking; Swift, Python, TypeScript and data processing." />
+</picture>
 
-<p align="center">
-<img src="./assets/portfolio/icon-swift.svg" width="42" height="42" alt="Swift" title="Swift" />&nbsp;
-<img src="./assets/portfolio/icon-python.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;
-<img src="./assets/portfolio/icon-javascript.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />&nbsp;
-<img src="./assets/portfolio/icon-typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
-<img src="./assets/portfolio/icon-react.svg" width="42" height="42" alt="React" title="React" />&nbsp;
-<img src="./assets/portfolio/icon-docker.svg" width="42" height="42" alt="Docker" title="Docker" />&nbsp;
-<img src="./assets/portfolio/icon-linux.svg" width="42" height="42" alt="Linux" title="Linux" />&nbsp;
-<img src="./assets/portfolio/icon-git.svg" width="42" height="42" alt="Git" title="Git" />
-</p>
+I work with **LLM tool integration, MCP and agent workflows**, alongside Linux-based infrastructure and application development. My projects include API integrations, self-hosted services and wearable-data processing.
 
 ---
 
