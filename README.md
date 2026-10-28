@@ -4,43 +4,31 @@
   Project art is conceptual; it is not a product screenshot.
 -->
 
-<div align="center">
-
+<p align="center">
   <img src="./assets/portfolio/hero.svg" width="100%" alt="Sayoneku — independent developer building iOS apps, web experiences and self-hosted systems." />
+</p>
 
-  <br /><br />
-
-  <a href="https://sayoneku.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&labelColor=111111&color=111111&logo=vercel&logoColor=white" /></a>
+<p align="center">
+  <a href="https://sayoneku.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&labelColor=111111&color=111111&logo=vercel&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/Sayoneku/Projects"><img alt="Experiments" src="https://img.shields.io/badge/EXPERIMENTS-303030?style=for-the-badge&labelColor=303030&color=303030&logo=github&logoColor=white" /></a>
+</p>
 
-  <br /><br />
-
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1100&color=888888&center=true&vCenter=true&width=540&height=40&lines=Make+something+useful.;Understand+how+it+works.;Refine+until+it+feels+right." width="90%" alt="Make something useful. Understand how it works. Refine until it feels right." />
+</p>
 
-  <br />
+<p align="center">
+  <strong>Developer by curiosity. Designer by instinct.</strong><br />
+  I build thoughtful things around privacy, personal technology and good design.
+</p>
 
-  <strong>Developer by curiosity. Designer by instinct.</strong>
-
-  <br /><br />
-
-  I build small, thoughtful things at the intersection of<br />
-  <strong>privacy, personal technology, and good design.</strong>
-
-  <br /><br />
-
-  <sub>IOS&nbsp; / &nbsp;WEB&nbsp; / &nbsp;SELF-HOSTING&nbsp; / &nbsp;AUTOMATION</sub>
-
-</div>
-
-<br />
+<p align="center"><sub>iOS &nbsp;·&nbsp; WEB &nbsp;·&nbsp; SELF-HOSTING &nbsp;·&nbsp; AUTOMATION</sub></p>
 
 ---
 
 ### 01 &nbsp; / &nbsp; SELECTED WORK
 
 <sub>Personal software. Made to solve real problems, not fill a portfolio.</sub>
-
-<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/veyra-dark.svg" />
@@ -55,7 +43,6 @@ A personal health companion designed to turn wearable readings into a clearer pi
 
 <sub>Private work in progress · Artwork is conceptual, not an app screenshot.</sub>
 
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/observatory-dark.svg" />
@@ -70,7 +57,6 @@ A personal command centre for **monitoring services, exploring system health, an
 
 <sub>Private work in progress · Artwork is conceptual, not a dashboard screenshot.</sub>
 
-<br />
 
 ---
 
@@ -78,7 +64,6 @@ A personal command centre for **monitoring services, exploring system health, an
 
 <sub>Some projects start with a plan. Others start with “what if?”</sub>
 
-<br />
 
 **[ISS Live Tracker ↗](https://github.com/Sayoneku/Projects/blob/main/iss_tracker.html)**
 
@@ -88,7 +73,6 @@ An interactive, browser-based experiment for following the International Space S
 
 A place for publicly shared prototypes, web experiments, and ideas worth testing.
 
-<br />
 
 ---
 
@@ -100,7 +84,6 @@ A place for publicly shared prototypes, web experiments, and ideas worth testing
 | **02 / Make complexity feel simple.** | The best interface makes a complicated system feel obvious. |
 | **03 / Learn by building.** | Prototype, break things, understand why, then make them better. |
 
-<br />
 
 ---
 
@@ -108,7 +91,6 @@ A place for publicly shared prototypes, web experiments, and ideas worth testing
 
 <sub>Languages, platforms, and tools I use and explore.</sub>
 
-<br />
 
 <div align="center">
 
@@ -121,13 +103,10 @@ A place for publicly shared prototypes, web experiments, and ideas worth testing
   <img src="./assets/portfolio/icon-linux.svg" height="46" width="46" alt="Linux" title="Linux" />&nbsp;&nbsp;
   <img src="./assets/portfolio/icon-git.svg" height="46" width="46" alt="Git" title="Git" />
 
-  <br /><br />
-
   <sub>Swift &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Git</sub>
 
 </div>
 
-<br />
 
 ---
 
@@ -135,12 +114,9 @@ A place for publicly shared prototypes, web experiments, and ideas worth testing
 
 <sub>Real public GitHub data. Monochrome cards and contribution animation generated in this repository.</sub>
 
-<br />
 
 <details>
   <summary><strong>Open the activity dashboard ↗</strong></summary>
-
-  <br />
 
   <div align="center">
 
@@ -153,38 +129,30 @@ A place for publicly shared prototypes, web experiments, and ideas worth testing
       <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages.svg" width="40%" alt="Language breakdown based on public repositories." />
     </picture>
 
-    <br /><br />
 
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/github-contribution-grid-snake-dark.svg" />
       <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution grid snake." />
     </picture>
 
-    <br />
 
     <sub>Automatically refreshed daily from public activity · <a href="https://github.com/Sayoneku/Sayoneku/blob/main/.github/workflows/snake.yml">See how it works</a></sub>
 
   </div>
 </details>
 
-<br />
 
 ---
 
-<div align="center">
-
-  <br />
-
+<p align="center">
   <sub>STILL LEARNING. STILL BUILDING.</sub>
+</p>
 
-  <h3>Good ideas deserve to exist.</h3>
+<h3 align="center">Good ideas deserve to exist.</h3>
 
-  <p>From the first messy prototype to the last tiny detail.</p>
-
+<p align="center">
+  From the first messy prototype to the last tiny detail.<br />
   <strong><a href="https://sayoneku.com">sayoneku.com ↗</a></strong>
+</p>
 
-  <br /><br />
-
-  <sub>© SAYONEKU &nbsp; / &nbsp; BUILT WITH CURIOSITY</sub>
-
-</div>
+<p align="center"><sub>© SAYONEKU &nbsp; / &nbsp; BUILT WITH CURIOSITY</sub></p>
