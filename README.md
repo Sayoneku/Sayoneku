@@ -94,10 +94,10 @@ Web and development experiments, including an ISS live tracker.
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages.svg" width="300" alt="Most used languages in Sayoneku's public repositories" />
+  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages.svg" width="300" alt="Language breakdown of Sayoneku's public repositories, excluding forks" />
 </picture>
 
-<sub>Updated daily from GitHub. Language totals describe public repository code, not proficiency.</sub>
+<sub>Public GitHub data · Refreshed daily</sub>
 
 </div>
 
