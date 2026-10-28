@@ -1,123 +1,74 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/portfolio/hero.svg" width="100%" alt="Sayoneku — Independent developer. iOS, web and self-hosted systems." />
+</p>
 
-# Sayoneku
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=400&amp;size=19&amp;duration=3200&amp;pause=1300&amp;color=888888&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=36&amp;lines=From+an+idea+to+something+useful.;Built+with+curiosity.+Refined+with+care." width="560" alt="From an idea to something useful. Built with curiosity. Refined with care." />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=400&amp;size=18&amp;duration=3500&amp;pause=1200&amp;color=888888&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Developer+%26+Creative;Building+thoughtful+software.;iOS+%C2%B7+Web+%C2%B7+Self-hosting" width="550" alt="Developer and creative. Building thoughtful software. iOS, web and self-hosting." />
+<p align="center">
+  I build tools around privacy, personal systems and the things I want to understand.
+</p>
 
-**Software · Systems · Design**
+<p align="center">
+  <a href="https://sayoneku.com">Website ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/Sayoneku/Projects">Experiments ↗</a>
+</p>
 
-Thoughtful software. Quiet interfaces. Control over my own data.
+## Selected work
 
-[Website](https://sayoneku.com) · [Projects](https://github.com/Sayoneku/Projects) · [GitHub](https://github.com/Sayoneku)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/veyra-dark.svg" />
+  <img src="./assets/portfolio/veyra-light.svg" width="100%" alt="Veyra — in development. Concept artwork with a metallic ring and abstract wearable signal." />
+</picture>
 
-</div>
+**In development** · A privacy-focused iOS project exploring wearable data, sleep and recovery.
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/observatory-dark.svg" />
+  <img src="./assets/portfolio/observatory-light.svg" width="100%" alt="Observatory — in development. Concept artwork showing connected personal systems." />
+</picture>
 
-### About
+**In development** · A local-first dashboard for monitoring and managing personal systems.
 
-I turn ideas into working tools, with a focus on privacy, self-hosted systems and clean user experiences. I like prototyping quickly, understanding how things work, then refining the details.
+<sub>Project artwork is conceptual. Both projects are in development.</sub>
 
-Currently exploring iOS development, automation and interfaces that make complex information easier to use.
+### Experiments, in the open
 
-<br>
+**[Projects ↗](https://github.com/Sayoneku/Projects)** — web experiments and an ISS live tracker.
 
-### Tools & technologies
+### Tools I work with
 
-<div align="center">
+<p>
+  <img src="./assets/portfolio/icon-swift.svg" width="48" height="48" alt="Swift" />&nbsp;
+  <img src="./assets/portfolio/icon-python.svg" width="48" height="48" alt="Python" />&nbsp;
+  <img src="./assets/portfolio/icon-javascript.svg" width="48" height="48" alt="JavaScript" />&nbsp;
+  <img src="./assets/portfolio/icon-typescript.svg" width="48" height="48" alt="TypeScript" />&nbsp;
+  <img src="./assets/portfolio/icon-react.svg" width="48" height="48" alt="React" />&nbsp;
+  <img src="./assets/portfolio/icon-docker.svg" width="48" height="48" alt="Docker" />&nbsp;
+  <img src="./assets/portfolio/icon-linux.svg" width="48" height="48" alt="Linux" />&nbsp;
+  <img src="./assets/portfolio/icon-git.svg" width="48" height="48" alt="Git" />
+</p>
 
-<img src="https://img.shields.io/badge/Swift-111111?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-111111?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+<details>
+<summary><strong>GitHub activity & contributions</strong></summary>
 
-<br>
-
-<img src="https://img.shields.io/badge/Git-111111?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-
-</div>
-
-<br>
-
-### Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Veyra**<br>
-<sub>IN DEVELOPMENT</sub>
-
-A personal, privacy-focused health application exploring wearable data, sleep analysis, recovery and clean iOS design.
-
-<sub>iOS · Swift · Health</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Observatory**<br>
-<sub>IN DEVELOPMENT</sub>
-
-A local-first dashboard for monitoring and managing personal systems through a unified interface.
-
-<sub>Web · Dashboard · Self-hosting</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**[Projects](https://github.com/Sayoneku/Projects)**
-
-Web and development experiments, including an ISS live tracker.
-
-<sub>HTML · Data visualisation · Exploration</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### GitHub activity
-
-<div align="center">
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/stats.svg" width="430" alt="Sayoneku's GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/stats.svg" width="430" alt="Sayoneku's public GitHub statistics" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/languages-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/languages.svg" width="300" alt="Language breakdown of Sayoneku's public repositories, excluding forks" />
+  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/languages.svg" width="300" alt="Language breakdown of public repositories, excluding forks" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/github-contribution-grid-snake.svg" width="100%" alt="Animated monochrome contribution snake" />
 </picture>
 
 <sub>Public GitHub data · Refreshed daily</sub>
 
-</div>
+</details>
 
-<br>
-
-### Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/github-contribution-grid-snake.svg" alt="Animated snake following Sayoneku's GitHub contribution grid" />
-</picture>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-<sub>Designed with intention. Built with curiosity.</sub>
-</div>
