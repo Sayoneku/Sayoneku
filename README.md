@@ -116,29 +116,30 @@ A place for publicly shared prototypes, web experiments, and ideas worth testing
 
 
 <details>
-  <summary><strong>Open the activity dashboard ↗</strong></summary>
+<summary><strong>Open the activity dashboard ↗</strong></summary>
 
-  <div align="center">
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/stats-dark.svg" />
+<img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/stats.svg" width="56%" alt="Public GitHub repository, follower, star and fork statistics." />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages-dark.svg" />
+<img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages.svg" width="40%" alt="Language breakdown based on public repositories." />
+</picture>
+</p>
 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/stats-dark.svg" />
-      <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/stats.svg" width="56%" alt="Public GitHub repository, follower, star and fork statistics." />
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages-dark.svg" />
-      <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages.svg" width="40%" alt="Language breakdown based on public repositories." />
-    </picture>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution grid snake." />
+</picture>
+</p>
 
+<p align="center">
+<sub>Automatically refreshed daily from public activity · <a href="https://github.com/Sayoneku/Sayoneku/blob/main/.github/workflows/snake.yml">See how it works</a></sub>
+</p>
 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/github-contribution-grid-snake-dark.svg" />
-      <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution grid snake." />
-    </picture>
-
-
-    <sub>Automatically refreshed daily from public activity · <a href="https://github.com/Sayoneku/Sayoneku/blob/main/.github/workflows/snake.yml">See how it works</a></sub>
-
-  </div>
 </details>
 
 
