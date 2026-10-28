@@ -89,12 +89,12 @@ Web and development experiments, including an ISS live tracker.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/stats.svg" width="430" alt="Sayoneku's GitHub statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/stats.svg" width="430" alt="Sayoneku's GitHub statistics" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/languages.svg" width="300" alt="Language breakdown of Sayoneku's public repositories, excluding forks" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/languages-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/languages.svg" width="300" alt="Language breakdown of Sayoneku's public repositories, excluding forks" />
 </picture>
 
 <sub>Public GitHub data · Refreshed daily</sub>
@@ -108,8 +108,8 @@ Web and development experiments, including an ISS live tracker.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/output/github-contribution-grid-snake.svg" alt="Animated snake following Sayoneku's GitHub contribution grid" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Sayoneku/Sayoneku/refs/heads/output/github-contribution-grid-snake.svg" alt="Animated snake following Sayoneku's GitHub contribution grid" />
 </picture>
 
 </div>
