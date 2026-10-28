@@ -10,7 +10,7 @@
 <rect x="0" y="0" width="1600" height="292" rx="22" fill="url(#grid)" stroke="none" stroke-width="1"/>
 <rect x="0" y="265" width="1600" height="35" rx="0" fill="#f3f4f5" stroke="none" stroke-width="1"/>
 <circle cx="1220" cy="139" r="370" fill="url(#halo)"/>
-<text x="64" y="74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="24" font-weight="650" letter-spacing="3" fill="#505b64">01 / TECHNICAL FOCUS</text>
+<text x="64" y="74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="24" font-weight="650" letter-spacing="3" fill="#505b64">AI / SYSTEMS / ENGINEERING</text>
 <text x="59" y="184" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="94" font-weight="620" letter-spacing="-3" fill="#101419">AI systems.</text>
 <text x="65" y="239" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="30" font-weight="420" letter-spacing="0" fill="#505b64">Models, tool execution and local infrastructure.</text>
 <path d="M64 291 L1536 291" stroke="#c8cdd2" stroke-width="2" fill="none"/>
